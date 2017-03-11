@@ -9,6 +9,8 @@ This is a small hack to make graphing on books easier
 
 ##Input File Format
 
+{PRECISION}
+
 {X SPACES} {Y SPACES}
 
 {minX RANGE} {maxX RANGE}
